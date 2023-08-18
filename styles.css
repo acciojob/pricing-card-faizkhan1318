@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.card {
+            width: 500px;
+            padding: 40px;
+            background-color: yellow;
+            box-shadow: 5px 10px 8px black;
+
+        }
+        .img-1{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .btn{
+            display: block;
+            background-color: brown;
+            border-radius: 10px;
+            color: white;
+            padding: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
